@@ -18,4 +18,4 @@ Python · pandas · seaborn · matplotlib · plotly
 ## Files
 
 - superstore-sales-eda.ipynb — full analysis notebook with visualizations
-- superstore_cleaned.csv — cleaned dataset ready for analysis
+- SuperStoreOrders.csv — cleaned dataset ready for analysis
